@@ -1,3 +1,9 @@
+---
+id: intro
+title: Introduction
+sidebar_position: 1
+---
+
 # Platform Documentation
 
 This site contains documentation for a sample SaaS platform.

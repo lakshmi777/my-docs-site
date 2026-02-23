@@ -174,8 +174,7 @@ paths:
                   depositId:
                     type: string
                     example: DEP778899
-                    PASTE YOUR YAML HERE
-```
                   status:
                     type: string
                     example: completed
+```

@@ -14,11 +14,12 @@ I am a Technical Writer with experience creating developer-facing and platform d
 - Release documentation  
 - Collaboration with engineering and product teams  
 - Effective communication
+- Process Improvements
+  
+## Tools and technology
 
-## Tools
-
-Oxygen XML Author, Markdown, AsciiDoc, Swagger/OpenAPI, Git, Docusaurus, Microsoft Word
+Oxygen XML Author, Markdown, AsciiDoc, VSCode, Swagger/OpenAPI, Git, Docusaurus, Microsoft Word
 
 ## Career focus
 
-I focus on developer and platform documentation and enjoy translating complex systems into clear, accessible documentation.
+I focus on developer & product documentation and enjoy translating complex systems into clear, accessible documentation.

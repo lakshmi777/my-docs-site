@@ -8,6 +8,5 @@ This documentation explains authentication, API usage, and configuration workflo
 
 ## Sections
 
-- Authentication (SSO)
 - API Reference
 - Configuration Guide

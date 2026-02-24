@@ -10,9 +10,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Platform Documentation',
-      items: [
-        'banking-api-reference',
-      ],
+      items: ['banking-api-reference'],
     },
 
     'about-me',

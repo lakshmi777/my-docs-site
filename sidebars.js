@@ -6,6 +6,15 @@
 const sidebars = {
   DocsSidebar: [
     'intro',
+
+    {
+      type: 'category',
+      label: 'Platform Documentation',
+      items: [
+        'banking-api-reference',
+      ],
+    },
+
     'about-me',
   ],
 };

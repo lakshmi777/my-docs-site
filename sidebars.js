@@ -5,7 +5,7 @@
  */
 const sidebars = {
   DocsSidebar: [
-    'intro',
+    'Platform Documentation',
 
     {
       type: 'category',

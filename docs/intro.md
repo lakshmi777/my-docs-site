@@ -8,5 +8,5 @@ This documentation explains authentication, API usage, and configuration workflo
 
 ## Sections
 
-- API Reference
+- [API Reference](./banking-api-reference)
 - Configuration Guide
